@@ -4,12 +4,12 @@
 
 The team consists of the students listed in the table below. 
 
-| Student Number	 | Name |
-|-----------------|----------------------------|
-| **1XXXXXX**     | Name of student 1          |
-| **1XXXXXX**     | Name of student 2          |
-| **1XXXXXX**     | Name of student 3          |
-| **1XXXXXX**     | Name of student 4          |
+| Student Number	 | Name              |
+|-----------------|-------------------|
+| **1250758**     | André Kovtun      |
+| **1250970**     | Gonçalo Vilas Boas |
+| **1250882**     | Diogo Silva       |
+| **1251419**     | Rodrigo Santos    |
 
 
 # 2. Task Distribution ###
