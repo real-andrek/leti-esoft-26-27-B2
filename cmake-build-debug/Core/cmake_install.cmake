@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/andre/CLionProjects/leti-esoft-26-27-B2/Core
+# Install script for directory: C:/Users/Utilizador/Documents/GitHub/leti-esoft-26-27-B2/Core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,6 +40,6 @@ endif()
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
 if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/andre/CLionProjects/leti-esoft-26-27-B2/cmake-build-debug/Core/install_local_manifest.txt"
+  file(WRITE "C:/Users/Utilizador/Documents/GitHub/leti-esoft-26-27-B2/cmake-build-debug/Core/install_local_manifest.txt"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
